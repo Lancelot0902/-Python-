@@ -11,3 +11,4 @@ From: 《Python从入门到实践》 主要讲了如何可视化的处理数据,
 * 第一部分:[生成数据](https://github.com/Lancelot0902/Python-program/tree/master/data_visualize/create%20data)
 * 第二部分:[下载数据](https://github.com/Lancelot0902/Python-program/tree/master/data_visualize/download%20data)
 * 第三部分:[使用API](https://github.com/Lancelot0902/Python-program/tree/master/use_API)
+* 第三部分:[Django入门web应用程序](https://github.com/Lancelot0902/Python-program/tree/master/learning_log)
